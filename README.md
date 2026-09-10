@@ -1,8 +1,6 @@
 ## Felipe NR
 
-Engineer focused on reliable systems and practical automation. My work includes
-correcting job search metrics, improving setup documentation for AI coding agents,
-and building tools that explain their calculations.
+Software Engineer | DDD | Applied AI | DevOps Culture | Node.js | Python | React | Full-stack Engineer | Back-end Developer | Nest.js | Next.js
 
 ### Open source
 
