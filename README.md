@@ -26,13 +26,6 @@ Engineer focused on reliable systems, clear delivery, and practical automation.
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/felipe-NR/felipe-NR">felipe-NR/felipe-NR</a></td>
-      <td align="right">—</td>
-      <td align="center"><a href="https://github.com/felipe-NR/felipe-NR/pulls?q=author%3Afelipe-NR"><b>0</b></a></td>
-      <td align="center"><a href="https://github.com/felipe-NR/felipe-NR/pulls?q=author%3Afelipe-NR"><b>0</b></a></td>
-      <td align="center"><a href="https://github.com/felipe-NR/felipe-NR/pulls?q=reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
-    </tr>
-    <tr>
       <td align="right"><b>Total</b></td>
       <td align="right"><b>—</b></td>
       <td align="center">1</td>
@@ -47,3 +40,5 @@ Engineer focused on reliable systems, clear delivery, and practical automation.
 ### My projects
 
 **[felipe-NR](https://github.com/felipe-NR/felipe-NR)** — profile repository and landing page.
+
+**[pet_tools](https://github.com/felipe-NR/pet_tools)**: calculates daily food portions for adult dogs and cats in the browser.
