@@ -1,6 +1,6 @@
 ## Felipe NR
 
-Software Engineer | DDD | Applied AI | DevOps Culture | Node.js | Python | React | Full-stack Engineer | Back-end Developer | Nest.js | Next.js
+Software Engineer | DDD | Applied AI | DevOps Culture
 
 ### Open source
 
