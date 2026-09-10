@@ -31,6 +31,11 @@ meaning or update the legend together with any change in presentation.
 There is no statistics-generation script in this repository. Counts and links
 are edited directly in `README.md`.
 
+## Memory language
+
+Write all ai-memory content for this project in English, including page titles,
+bodies, and paths.
+
 ## Validation
 
 Run `git diff --check` after edits and review the diff for the affected files.
