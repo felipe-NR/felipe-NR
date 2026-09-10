@@ -60,6 +60,7 @@ and [akitaonrails](https://github.com/akitaonrails) in ai-memory.
 
 For career-ops, I [corrected the populations used for blocker and discard rates](https://github.com/career-ops-hq/career-ops/pull/2783)
 and [fixed a weekly match count that stopped at 24](https://github.com/career-ops-hq/career-ops/pull/2662).
+
 In ai-memory, I [fixed how Claude Code loads shared project instructions](https://github.com/akitaonrails/ai-memory/pull/681)
 and [corrected the documented dependency check command](https://github.com/akitaonrails/ai-memory/pull/684).
 
