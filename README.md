@@ -26,9 +26,16 @@ Engineer focused on reliable systems, clear delivery, and practical automation.
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td>
+      <td align="right"><a href="https://github.com/career-ops-hq/career-ops/stargazers">70,808</a></td>
+      <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>2</b></a></td>
+      <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>0</b></a></td>
+      <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
+    </tr>
+    <tr>
       <td align="right"><b>Total</b></td>
       <td align="right"><b>—</b></td>
-      <td align="center">1</td>
+      <td align="center"><b>2</b> + 1</td>
       <td align="center"><b>2</b></td>
       <td align="center"><b>0</b></td>
     </tr>
@@ -38,7 +45,5 @@ Engineer focused on reliable systems, clear delivery, and practical automation.
 <sub><b>Bold</b> = merged; plain = open, under review. Counts link through to pull requests.</sub>
 
 ### My projects
-
-**[felipe-NR](https://github.com/felipe-NR/felipe-NR)** — profile repository and landing page.
 
 **[pet_tools](https://github.com/felipe-NR/pet_tools)**: calculates daily food portions for adult dogs and cats in the browser.
