@@ -35,10 +35,17 @@ and building tools that explain their calculations.
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/akitaonrails/frank_mangaplus">akitaonrails/frank_mangaplus</a></td>
+      <td align="right"><a href="https://github.com/akitaonrails/frank_mangaplus/stargazers">38</a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>0</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Aopen+feat+in%3Atitle">1</a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
+    </tr>
+    <tr>
       <td align="right"><b>Total</b></td>
-      <td align="right"><b>77,128</b></td>
+      <td align="right"><b>77,166</b></td>
       <td align="center"><b>2</b> + 1</td>
-      <td align="center"><b>2</b></td>
+      <td align="center"><b>2</b> + 1</td>
       <td align="center"><b>0</b></td>
     </tr>
   </tbody>
@@ -56,6 +63,9 @@ and [fixed a weekly match count that stopped at 24](https://github.com/career-op
 In ai-memory, I [fixed how Claude Code loads shared project instructions](https://github.com/akitaonrails/ai-memory/pull/681)
 and [corrected the documented dependency check command](https://github.com/akitaonrails/ai-memory/pull/684).
 
+In frank_mangaplus, I built catalog language selection for my own reading preferences
+and [proposed it upstream in PR #4](https://github.com/akitaonrails/frank_mangaplus/pull/4).
+
 ### My projects
 
 **[pet_tools](https://github.com/felipe-NR/pet_tools)** · [Use the calculator](https://felipe-nr.github.io/pet_tools/):
@@ -64,6 +74,7 @@ Runs in the browser and shows the calculation steps.
 
 ---
 
-*[ai-memory](https://github.com/felipe-NR/ai-memory) and [career-ops](https://github.com/felipe-NR/career-ops)
+*[ai-memory](https://github.com/felipe-NR/ai-memory), [career-ops](https://github.com/felipe-NR/career-ops),
+and [frank_mangaplus](https://github.com/felipe-NR/frank_mangaplus)
 under my account are forks used for upstream contributions. The table reports the
 upstream repositories' stars and links to my work there.*
