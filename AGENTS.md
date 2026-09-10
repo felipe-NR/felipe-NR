@@ -6,6 +6,11 @@ This is the GitHub profile repository for `felipe-NR`. Its public content lives
 in `README.md`, which contains a short biography, an open-source contribution
 table, and project links.
 
+The layout reference is
+[`abhisheksharma2411/abhisheksharma2411`](https://github.com/abhisheksharma2411/abhisheksharma2411).
+Adapt its structure using Felipe's verified work and preserve improvements in
+link precision and presentation.
+
 - `README.md`: public profile, written in English using Markdown and inline HTML.
 - `AGENTS.md`: contains all project guidance, including instructions specific
   to Claude Code or other agents.
@@ -24,9 +29,22 @@ Preserve its header spans, column relationships, and total row when editing it.
 
 Verify contribution counts, project stars, and pull request links against GitHub
 before changing those values. Keep category counts and totals consistent with
-the linked evidence. The table legend uses bold numbers for merged contributions
-and plain numbers for contributions that are open or under review; preserve that
-meaning or update the legend together with any change in presentation.
+the linked evidence. In Bug fixes and Features & docs, bold numbers represent
+merged contributions and plain numbers represent open contributions. Keep these
+states separate in category cells and totals. Reviews count unique PRs by other
+authors across all states; exclude the user's own PRs.
+
+Order upstream projects by descending star count. Keep exact counts linked to
+their stargazer pages, sum the displayed stars in Total, and date the snapshot
+when refreshing statistics.
+
+A PR closed without merging may count as landed only when an upstream commit
+confirms that its work was incorporated with attribution. Link to that commit,
+explain the exception, and avoid counting the same work twice.
+
+Support maintainer attribution and contribution examples with PR metadata or
+upstream commits. Include working product links in My projects when available,
+and distinguish contribution forks from original projects.
 
 There is no statistics-generation script in this repository. Counts and links
 are edited directly in `README.md`.
