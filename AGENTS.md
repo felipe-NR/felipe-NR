@@ -34,9 +34,11 @@ merged contributions and plain numbers represent open contributions. Keep these
 states separate in category cells and totals. Reviews count unique PRs by other
 authors across all states; exclude the user's own PRs.
 
-Order upstream projects by descending star count. Keep exact counts linked to
-their stargazer pages, sum the displayed stars in Total, and date the snapshot
-when refreshing statistics.
+Order upstream projects alphabetically by repository name, ignoring the owner
+(for example, `ai-memory` before `career-ops`). Apply the same order to the
+maintainer attribution sentence, the per-project contribution paragraphs, and
+the fork note. Keep exact star counts linked to their stargazer pages, sum the
+displayed stars in Total, and date the snapshot when refreshing statistics.
 
 A PR closed without merging may count as landed only when an upstream commit
 confirms that its work was incorporated with attribution. Link to that commit,
