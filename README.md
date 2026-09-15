@@ -20,14 +20,14 @@ Software Engineer | DDD | Applied AI | DevOps Culture
   <tbody>
     <tr>
       <td><a href="https://github.com/akitaonrails/ai-memory">akitaonrails/ai-memory</a></td>
-      <td align="right"><a href="https://github.com/akitaonrails/ai-memory/stargazers">6,785</a></td>
-      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle+NOT+docs"><b>2</b></a> + <a href="https://github.com/akitaonrails/ai-memory/pull/730">1</a></td>
+      <td align="right"><a href="https://github.com/akitaonrails/ai-memory/stargazers">6,884</a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle+NOT+docs"><b>3</b></a></td>
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+docs+in%3Atitle"><b>2</b></a> + <a href="https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368"><b>1</b></a>†</td>
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td>
-      <td align="right"><a href="https://github.com/career-ops-hq/career-ops/stargazers">71,579</a></td>
+      <td align="right"><a href="https://github.com/career-ops-hq/career-ops/stargazers">71,707</a></td>
       <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>2</b></a> + <a href="https://github.com/career-ops-hq/career-ops/pull/4183">1</a></td>
       <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>0</b></a> + <a href="https://github.com/career-ops-hq/career-ops/pull/4182">1</a></td>
       <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
@@ -41,8 +41,8 @@ Software Engineer | DDD | Applied AI | DevOps Culture
     </tr>
     <tr>
       <td align="right"><b>Total</b></td>
-      <td align="right"><b>78,406</b></td>
-      <td align="center"><b>4</b> + 2</td>
+      <td align="right"><b>78,633</b></td>
+      <td align="center"><b>5</b> + 1</td>
       <td align="center"><b>4</b> + 1</td>
       <td align="center"><b>0</b></td>
     </tr>
@@ -51,7 +51,7 @@ Software Engineer | DDD | Applied AI | DevOps Culture
 
 <sub>Bug fixes and Features &amp; docs show merged pull requests in <b>bold</b> and open pull requests in regular type.
 Reviews count pull requests by other authors. Contribution counts link to matching pull requests.<br>
-Stars are summed across the upstream repositories listed. Counts checked on 2026-09-14 (UTC).<br>
+Stars are summed across the upstream repositories listed. Counts checked on 2026-09-15 (UTC).<br>
 † <a href="https://github.com/akitaonrails/ai-memory/pull/711">PR #711</a> was closed without merging after its commit landed upstream in <a href="https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368">817cde17</a>.</sub>
 
 Contributions merged by [akitaonrails](https://github.com/akitaonrails) in ai-memory
@@ -61,8 +61,8 @@ In ai-memory, I [fixed how Claude Code loads shared project instructions](https:
 [corrected the documented dependency check command](https://github.com/akitaonrails/ai-memory/pull/684),
 [made the local dependency check match CI](https://github.com/akitaonrails/ai-memory/pull/690),
 [kept POSIX hook scripts from dropping undelivered events](https://github.com/akitaonrails/ai-memory/pull/720),
+[preserved the ingest key across shell retries](https://github.com/akitaonrails/ai-memory/pull/730),
 and [added Muse Code as an MCP client](https://github.com/akitaonrails/ai-memory/pull/711).
-I also have an open fix that [preserves the ingest key across shell retries](https://github.com/akitaonrails/ai-memory/pull/730).
 
 In career-ops, I [corrected the populations used for blocker and discard rates](https://github.com/career-ops-hq/career-ops/pull/2783)
 and [fixed a weekly match count that stopped at 24](https://github.com/career-ops-hq/career-ops/pull/2662).
