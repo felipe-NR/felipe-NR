@@ -1,4 +1,4 @@
-## Felipe NR
+## Felipe NR <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_NR-0A66C2?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/felipe-nr)
 
 Software Engineer | DDD | Applied AI | DevOps Culture
 
@@ -84,7 +84,7 @@ Claude Code and Codex as its MVP clients.
 
 ---
 
-*[ai-memory](https://github.com/felipe-NR/ai-memory), [career-ops](https://github.com/felipe-NR/career-ops),
+_[ai-memory](https://github.com/felipe-NR/ai-memory), [career-ops](https://github.com/felipe-NR/career-ops),
 and [frank_mangaplus](https://github.com/felipe-NR/frank_mangaplus)
 under my account are forks used for upstream contributions. The table reports the
-upstream repositories' stars and links to my work there.*
+upstream repositories' stars and links to my work there._
