@@ -76,9 +76,11 @@ Portuguese, Russian, and Indonesian editions.
 
 ### My projects
 
-**[pet_tools](https://github.com/felipe-NR/pet_tools)** · [Use the calculator](https://felipe-nr.github.io/pet_tools/):
-turns body weight and food label energy into daily portions for adult dogs and cats.
-Runs in the browser and shows the calculation steps.
+**[english-tutor-claudinho](https://github.com/felipe-NR/english-tutor-claudinho)**:
+an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that turns your
+coding agent into an English tutor. It corrects the English in the messages you send, records
+recurring mistakes, and reviews them with you. Tuned for Brazilian Portuguese speakers, with
+Claude Code and Codex as its MVP clients.
 
 ---
 
