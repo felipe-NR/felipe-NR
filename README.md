@@ -77,10 +77,9 @@ Portuguese, Russian, and Indonesian editions.
 ### My projects
 
 **[english-tutor-claudinho](https://github.com/felipe-NR/english-tutor-claudinho)**:
-an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that turns your
-coding agent into an English tutor. It corrects the English in the messages you send, records
-recurring mistakes, and reviews them with you. Tuned for Brazilian Portuguese speakers, with
-Claude Code and Codex as its MVP clients.
+an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that gives your coding agent the added ability to also act as an English tutor.
+It corrects the English in the messages you send, records recurring mistakes, and reviews them with you.
+Tuned for Brazilian Portuguese speakers, with Claude Code and Codex as its MVP clients.
 
 ---
 
