@@ -69,13 +69,13 @@ In career-ops, I [corrected the populations used for blocker and discard rates](
 and [escaped ampersands in offer URLs](https://github.com/career-ops-hq/career-ops/pull/4183).
 I also have an open contribution that [connects scan history to company discovery](https://github.com/career-ops-hq/career-ops/pull/4182).
 
-In frank_mangaplus, I built catalog language selection for my own reading preferences
-and [contributed it upstream](https://github.com/akitaonrails/frank_mangaplus/pull/4),
-covering all nine MANGA Plus catalogs and correcting language IDs that mislabeled
-Portuguese, Russian, and Indonesian editions, the lead feature of the
-[v1.1.0 release](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.1.0).
-I also [merged the desktop reader's double-page layouts into one spread-aware mode](https://github.com/akitaonrails/frank_mangaplus/pull/10)
-that pairs pages as printed, the headline feature of the
+In frank_mangaplus, I built catalog language selection for myself and
+[contributed it upstream](https://github.com/akitaonrails/frank_mangaplus/pull/4),
+where it headlined the [v1.1.0 release](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.1.0).
+It covers all nine MANGA Plus catalogs and corrects language IDs that mislabeled
+Portuguese, Russian, and Indonesian editions.
+I also [merged the desktop reader's double-page layouts into one spread-aware mode](https://github.com/akitaonrails/frank_mangaplus/pull/10),
+which pairs pages as printed and shipped as the
 [v1.2.0 release](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.2.0).
 
 ### My projects
