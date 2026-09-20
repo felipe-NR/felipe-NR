@@ -61,13 +61,19 @@ In ai-memory, I [fixed how Claude Code loads shared project instructions](https:
 [corrected the documented dependency check command](https://github.com/akitaonrails/ai-memory/pull/684),
 [made the local dependency check match CI](https://github.com/akitaonrails/ai-memory/pull/690),
 [kept POSIX hook scripts from dropping undelivered events](https://github.com/akitaonrails/ai-memory/pull/720),
-[preserved the ingest key across shell retries](https://github.com/akitaonrails/ai-memory/pull/730),
-and [added Muse Code as an MCP client](https://github.com/akitaonrails/ai-memory/pull/711).
+and [preserved the ingest key across shell retries](https://github.com/akitaonrails/ai-memory/pull/730),
+each closing an issue I filed ([#680](https://github.com/akitaonrails/ai-memory/issues/680),
+[#683](https://github.com/akitaonrails/ai-memory/issues/683),
+[#689](https://github.com/akitaonrails/ai-memory/issues/689),
+[#719](https://github.com/akitaonrails/ai-memory/issues/719),
+[#729](https://github.com/akitaonrails/ai-memory/issues/729)).
+I also [added Muse Code as an MCP client](https://github.com/akitaonrails/ai-memory/pull/711).
 
 In career-ops, I [corrected the populations used for blocker and discard rates](https://github.com/career-ops-hq/career-ops/pull/2783),
 [fixed a weekly match count that stopped at 24](https://github.com/career-ops-hq/career-ops/pull/2662),
 and [escaped ampersands in offer URLs](https://github.com/career-ops-hq/career-ops/pull/4183).
-I also have an open contribution that [connects scan history to company discovery](https://github.com/career-ops-hq/career-ops/pull/4182).
+I also have an open [contribution that connects scan history to company discovery](https://github.com/career-ops-hq/career-ops/pull/4182)
+and an open [issue reporting that discard reasons are parsed but never consumed](https://github.com/career-ops-hq/career-ops/issues/2785).
 
 In frank_mangaplus, I built catalog language selection for myself and
 [contributed it upstream](https://github.com/akitaonrails/frank_mangaplus/pull/4),
