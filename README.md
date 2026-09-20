@@ -20,30 +20,30 @@ Software Engineer | DDD | Applied AI | DevOps Culture
   <tbody>
     <tr>
       <td><a href="https://github.com/akitaonrails/ai-memory">akitaonrails/ai-memory</a></td>
-      <td align="right"><a href="https://github.com/akitaonrails/ai-memory/stargazers">6,884</a></td>
+      <td align="right"><a href="https://github.com/akitaonrails/ai-memory/stargazers">7,197</a></td>
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle+NOT+docs"><b>3</b></a></td>
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+docs+in%3Atitle"><b>2</b></a> + <a href="https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368"><b>1</b></a>†</td>
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td>
-      <td align="right"><a href="https://github.com/career-ops-hq/career-ops/stargazers">71,707</a></td>
-      <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>2</b></a> + <a href="https://github.com/career-ops-hq/career-ops/pull/4183">1</a></td>
+      <td align="right"><a href="https://github.com/career-ops-hq/career-ops/stargazers">72,171</a></td>
+      <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>3</b></a></td>
       <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>0</b></a> + <a href="https://github.com/career-ops-hq/career-ops/pull/4182">1</a></td>
       <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/akitaonrails/frank_mangaplus">akitaonrails/frank_mangaplus</a></td>
-      <td align="right"><a href="https://github.com/akitaonrails/frank_mangaplus/stargazers">42</a></td>
+      <td align="right"><a href="https://github.com/akitaonrails/frank_mangaplus/stargazers">44</a></td>
       <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>0</b></a></td>
-      <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+feat+in%3Atitle"><b>1</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+feat+in%3Atitle"><b>2</b></a></td>
       <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
       <td align="right"><b>Total</b></td>
-      <td align="right"><b>78,633</b></td>
+      <td align="right"><b>79,412</b></td>
+      <td align="center"><b>6</b></td>
       <td align="center"><b>5</b> + 1</td>
-      <td align="center"><b>4</b> + 1</td>
       <td align="center"><b>0</b></td>
     </tr>
   </tbody>
@@ -51,7 +51,7 @@ Software Engineer | DDD | Applied AI | DevOps Culture
 
 <sub>Bug fixes and Features &amp; docs show merged pull requests in <b>bold</b> and open pull requests in regular type.
 Reviews count pull requests by other authors. Contribution counts link to matching pull requests.<br>
-Stars are summed across the upstream repositories listed. Counts checked on 2026-09-15 (UTC).<br>
+Stars are summed across the upstream repositories listed. Counts checked on 2026-09-19 (UTC).<br>
 † <a href="https://github.com/akitaonrails/ai-memory/pull/711">PR #711</a> was closed without merging after its commit landed upstream in <a href="https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368">817cde17</a>.</sub>
 
 Contributions merged by [akitaonrails](https://github.com/akitaonrails) in ai-memory
@@ -64,15 +64,19 @@ In ai-memory, I [fixed how Claude Code loads shared project instructions](https:
 [preserved the ingest key across shell retries](https://github.com/akitaonrails/ai-memory/pull/730),
 and [added Muse Code as an MCP client](https://github.com/akitaonrails/ai-memory/pull/711).
 
-In career-ops, I [corrected the populations used for blocker and discard rates](https://github.com/career-ops-hq/career-ops/pull/2783)
-and [fixed a weekly match count that stopped at 24](https://github.com/career-ops-hq/career-ops/pull/2662).
-I also have open contributions that [connect scan history to company discovery](https://github.com/career-ops-hq/career-ops/pull/4182)
-and [preserve ampersands in offer URLs](https://github.com/career-ops-hq/career-ops/pull/4183).
+In career-ops, I [corrected the populations used for blocker and discard rates](https://github.com/career-ops-hq/career-ops/pull/2783),
+[fixed a weekly match count that stopped at 24](https://github.com/career-ops-hq/career-ops/pull/2662),
+and [escaped ampersands in offer URLs](https://github.com/career-ops-hq/career-ops/pull/4183).
+I also have an open contribution that [connects scan history to company discovery](https://github.com/career-ops-hq/career-ops/pull/4182).
 
 In frank_mangaplus, I built catalog language selection for my own reading preferences
 and [contributed it upstream](https://github.com/akitaonrails/frank_mangaplus/pull/4),
 covering all nine MANGA Plus catalogs and correcting language IDs that mislabeled
-Portuguese, Russian, and Indonesian editions.
+Portuguese, Russian, and Indonesian editions, the lead feature of the
+[v1.1.0 release](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.1.0).
+I also [merged the desktop reader's double-page layouts into one spread-aware mode](https://github.com/akitaonrails/frank_mangaplus/pull/10)
+that pairs pages as printed, the headline feature of the
+[v1.2.0 release](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.2.0).
 
 ### My projects
 
