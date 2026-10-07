@@ -105,6 +105,11 @@ an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that gi
 It corrects the English in the messages you send, records recurring mistakes, and reviews them with you.
 Tuned for Brazilian Portuguese speakers, with Claude Code and Codex as its MVP clients.
 
+**[judoka-assistant](https://github.com/felipe-NR/judoka-assistant)**:
+a Brazilian Portuguese assistant for judo techniques, history, and rules that declines any other topic.
+It places a curated corpus in Claude's context with prompt caching, behind a scope guardrail that fails closed.
+Built with Python, FastAPI, and the Anthropic SDK.
+
 ---
 
 _[ai-memory](https://github.com/felipe-NR/ai-memory), [career-ops](https://github.com/felipe-NR/career-ops),
