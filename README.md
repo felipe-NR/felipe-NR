@@ -19,97 +19,104 @@ Software Engineer | DDD | Applied AI | DevOps Culture
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/akitaonrails/ai-jail">akitaonrails/ai-jail</a></td>
+      <td align="right"><a href="https://github.com/akitaonrails/ai-jail/stargazers">1,427</a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-jail/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+NOT+feat+NOT+docs+in%3Atitle"><b>1</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-jail/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>0</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-jail/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/akitaonrails/ai-memory">akitaonrails/ai-memory</a></td>
-      <td align="right"><a href="https://github.com/akitaonrails/ai-memory/stargazers">9,245</a></td>
-      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle+NOT+docs"><b>16</b></a></td>
-      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>8</b></a> + <a href="https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368"><b>1</b></a>†</td>
+      <td align="right"><a href="https://github.com/akitaonrails/ai-memory/stargazers">14,233</a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+NOT+feat+NOT+docs+in%3Atitle"><b>26</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>9</b></a> + <a href="https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368"><b>1</b></a>†</td>
       <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/akitaonrails/ai-usagebar">akitaonrails/ai-usagebar</a></td>
+      <td align="right"><a href="https://github.com/akitaonrails/ai-usagebar/stargazers">728</a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-usagebar/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+NOT+feat+NOT+docs+in%3Atitle"><b>1</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-usagebar/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>0</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-usagebar/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td>
-      <td align="right"><a href="https://github.com/career-ops-hq/career-ops/stargazers">74,488</a></td>
-      <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>4</b></a></td>
+      <td align="right"><a href="https://github.com/career-ops-hq/career-ops/stargazers">78,171</a></td>
+      <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+NOT+feat+NOT+docs+in%3Atitle"><b>5</b></a></td>
       <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>3</b></a></td>
       <td align="center"><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">1</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/akitaonrails/frank_mangaplus">akitaonrails/frank_mangaplus</a></td>
-      <td align="right"><a href="https://github.com/akitaonrails/frank_mangaplus/stargazers">48</a></td>
-      <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+fix+in%3Atitle"><b>0</b></a></td>
+      <td align="right"><a href="https://github.com/akitaonrails/frank_mangaplus/stargazers">49</a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+NOT+feat+NOT+docs+in%3Atitle"><b>0</b></a></td>
       <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+author%3Afelipe-NR+is%3Amerged+%28feat+in%3Atitle+OR+docs+in%3Atitle%29"><b>3</b></a></td>
       <td align="center"><a href="https://github.com/akitaonrails/frank_mangaplus/pulls?q=is%3Apr+reviewed-by%3Afelipe-NR+-author%3Afelipe-NR">0</a></td>
     </tr>
     <tr>
       <td align="right"><b>Total</b></td>
-      <td align="right"><b>83,781</b></td>
-      <td align="center"><b>20</b></td>
-      <td align="center"><b>15</b></td>
+      <td align="right"><b>94,608</b></td>
+      <td align="center"><b>33</b></td>
+      <td align="center"><b>16</b></td>
       <td align="center"><b>1</b></td>
     </tr>
   </tbody>
 </table>
 
 <sub>Bug fixes and Features &amp; docs show merged pull requests in <b>bold</b> and open pull requests in regular type.
-Reviews count pull requests by other authors. Contribution counts link to matching pull requests.<br>
-Stars are summed across the upstream repositories listed. Counts checked on 2026-10-14 (UTC).<br>
+Bug fixes also include test and dependency maintenance pull requests. Reviews count pull requests by other authors.
+Contribution counts link to matching pull requests.<br>
+Stars are summed across the upstream repositories listed. Counts checked on 2026-10-28 (UTC).<br>
 † <a href="https://github.com/akitaonrails/ai-memory/pull/711">PR #711</a> was closed without merging after its commit landed upstream in <a href="https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368">817cde17</a>.</sub>
 
-Contributions merged by [akitaonrails](https://github.com/akitaonrails) in ai-memory
+Contributions merged by [akitaonrails](https://github.com/akitaonrails) in ai-jail, ai-memory, ai-usagebar
 and frank_mangaplus, and by [santifer](https://github.com/santifer) in career-ops.
 
-In ai-memory, each contribution below began as an issue I filed. I
-[corrected how Claude Code loads shared project instructions](https://github.com/akitaonrails/ai-memory/pull/681),
-[the documented dependency check command](https://github.com/akitaonrails/ai-memory/pull/684),
-[the documented auto_scope default](https://github.com/akitaonrails/ai-memory/pull/1066),
-and [the documented auto-improve reviewer context](https://github.com/akitaonrails/ai-memory/pull/1213).
-I also [made the local dependency check match CI](https://github.com/akitaonrails/ai-memory/pull/690),
-[spooled undelivered hook events](https://github.com/akitaonrails/ai-memory/pull/720),
-[preserved the ingest key across shell retries](https://github.com/akitaonrails/ai-memory/pull/730),
-[made session-start hooks request the configured brief](https://github.com/akitaonrails/ai-memory/pull/1001),
-and [sent the configured reasoning effort to Claude Haiku 5.5](https://github.com/akitaonrails/ai-memory/pull/1181).
-I [kept the native client and its hook bundle together in the Docker cache](https://github.com/akitaonrails/ai-memory/pull/875)
-and [stopped auto-wire from overwriting a session-aware MCP bridge](https://github.com/akitaonrails/ai-memory/pull/889).
-In the memory internals, I [gave a date-only expiry a conformant stale marker](https://github.com/akitaonrails/ai-memory/pull/918),
-[protected pinned pages during consolidation](https://github.com/akitaonrails/ai-memory/pull/935),
-[kept an agent's session page through SessionEnd](https://github.com/akitaonrails/ai-memory/pull/1139),
-[named the projects behind an ambiguous project name](https://github.com/akitaonrails/ai-memory/pull/1153),
-[let memory_write_page cite a session](https://github.com/akitaonrails/ai-memory/pull/1071),
-and hardened bootstrap chunking ([#936](https://github.com/akitaonrails/ai-memory/pull/936),
-[#938](https://github.com/akitaonrails/ai-memory/pull/938),
-[#940](https://github.com/akitaonrails/ai-memory/pull/940)).
-In the cross-project profile, I [kept Codex instructions that name no directory out of it](https://github.com/akitaonrails/ai-memory/pull/1174),
-[stopped harvesting ADR metadata as a habit](https://github.com/akitaonrails/ai-memory/pull/1176),
-[let memory_write_page and write-page set applies_to and enforced_by](https://github.com/akitaonrails/ai-memory/pull/1179),
-and [documented that rebuild never removes an entry](https://github.com/akitaonrails/ai-memory/pull/1156).
-Separately, I [added Muse Code as an MCP client](https://github.com/akitaonrails/ai-memory/pull/711)
-and [restored the security boundary table after a release merge](https://github.com/akitaonrails/ai-memory/pull/1073).
-
-In career-ops, I [corrected the populations used for blocker and discard rates](https://github.com/career-ops-hq/career-ops/pull/2783),
-[fixed a weekly match count that stopped at 24](https://github.com/career-ops-hq/career-ops/pull/2662),
-[escaped ampersands in offer URLs](https://github.com/career-ops-hq/career-ops/pull/4183),
-[bridged scan history to company discovery](https://github.com/career-ops-hq/career-ops/pull/4182),
-[added a board-wide Gupy provider](https://github.com/career-ops-hq/career-ops/pull/4550),
-and [let the updater read the profile directly when a cv-templates import is missing](https://github.com/career-ops-hq/career-ops/pull/5043).
-I also [closed the discard_reasons vocabulary](https://github.com/career-ops-hq/career-ops/pull/4549)
-I [flagged earlier](https://github.com/career-ops-hq/career-ops/issues/2785).
-
-In frank_mangaplus, I built catalog language selection for myself and
-[contributed it upstream](https://github.com/akitaonrails/frank_mangaplus/pull/4),
-where it headlined the [v1.1.0 release](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.1.0).
-It covers all nine MANGA Plus catalogs and corrects language IDs that mislabeled
-Portuguese, Russian, and Indonesian editions.
-I also [merged the desktop reader's double-page layouts into one spread-aware mode](https://github.com/akitaonrails/frank_mangaplus/pull/10),
-which pairs pages as printed and shipped as the
-[v1.2.0 release](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.2.0).
-I then [reported the gap](https://github.com/akitaonrails/frank_mangaplus/issues/12)
-that became the [v1.3.0 release's](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.3.0)
-manual pairing corrections for chapters the API leaves unmarked,
-and [corrected the spread-pairing audit for the Portuguese edition](https://github.com/akitaonrails/frank_mangaplus/pull/11)
-in that release.
+- **[ai-jail](https://github.com/akitaonrails/ai-jail)**, a multi-OS sandbox for AI coding agents: **1 merged PR**.
+  I made the bubblewrap setup skip command paths that an earlier home bind already exposes
+  ([#170](https://github.com/akitaonrails/ai-jail/pull/170)).
+- **[ai-memory](https://github.com/akitaonrails/ai-memory)**, long-term memory and handoff shared across coding agent CLIs: **35 merged PRs**,
+  plus [#711](https://github.com/akitaonrails/ai-memory/pull/711) (Muse Code as an MCP client), which isn't in that count
+  because the maintainer merged it by hand into the 2.2 release as [817cde17](https://github.com/akitaonrails/ai-memory/commit/817cde174b92dfaebbf132be5fe20f88d307a368).
+  On hook delivery, I spooled undelivered events ([#720](https://github.com/akitaonrails/ai-memory/pull/720)),
+  kept the ingest key across shell retries ([#730](https://github.com/akitaonrails/ai-memory/pull/730))
+  and sent the briefing settings with the session-start handoff ([#1001](https://github.com/akitaonrails/ai-memory/pull/1001)).
+  On memory upkeep, I protected pinned pages and the agent's session page during consolidation
+  ([#935](https://github.com/akitaonrails/ai-memory/pull/935), [#1139](https://github.com/akitaonrails/ai-memory/pull/1139)),
+  hardened bootstrap chunking ([#936](https://github.com/akitaonrails/ai-memory/pull/936),
+  [#938](https://github.com/akitaonrails/ai-memory/pull/938), [#940](https://github.com/akitaonrails/ai-memory/pull/940))
+  and kept Codex instructions and ADR metadata out of the cross-project profile
+  ([#1174](https://github.com/akitaonrails/ai-memory/pull/1174), [#1176](https://github.com/akitaonrails/ai-memory/pull/1176)).
+  I also let the MCP bridge read the stored hook key ([#1492](https://github.com/akitaonrails/ai-memory/pull/1492)),
+  carried a file-sourced bearer into the ai-jail re-exec ([#1285](https://github.com/akitaonrails/ai-memory/pull/1285)),
+  and corrected the docs on CLAUDE.md imports, the auto_scope default and the security boundary table
+  ([#681](https://github.com/akitaonrails/ai-memory/pull/681), [#1066](https://github.com/akitaonrails/ai-memory/pull/1066),
+  [#1073](https://github.com/akitaonrails/ai-memory/pull/1073)).
+- **[ai-usagebar](https://github.com/akitaonrails/ai-usagebar)**, a Waybar widget that tracks Claude, GPT, GLM and OpenRouter plans and credits: **1 merged PR**.
+  I made it read the Antigravity session from the keyring when `secret-tool lookup` won't hand it over
+  ([#420](https://github.com/akitaonrails/ai-usagebar/pull/420)).
+- **[career-ops](https://github.com/career-ops-hq/career-ops)**, an AI job-search pipeline that runs inside coding agents: **8 merged PRs**.
+  I corrected the populations behind the blocker and discard rates ([#2783](https://github.com/career-ops-hq/career-ops/pull/2783)),
+  fixed a weekly match count capped at 24 ([#2662](https://github.com/career-ops-hq/career-ops/pull/2662)),
+  escaped ampersands in offer URLs ([#4183](https://github.com/career-ops-hq/career-ops/pull/4183))
+  and let the updater read the profile directly when a cv-templates import is missing
+  ([#5043](https://github.com/career-ops-hq/career-ops/pull/5043)).
+  I also bridged scan history to company discovery ([#4182](https://github.com/career-ops-hq/career-ops/pull/4182)),
+  added a board-wide Gupy provider ([#4550](https://github.com/career-ops-hq/career-ops/pull/4550))
+  and closed the discard_reasons vocabulary I'd flagged in [issue #2785](https://github.com/career-ops-hq/career-ops/issues/2785)
+  ([#4549](https://github.com/career-ops-hq/career-ops/pull/4549)).
+- **[frank_mangaplus](https://github.com/akitaonrails/frank_mangaplus)**, a desktop reader for MANGA Plus: **3 merged PRs**.
+  I built catalog language selection for all nine MANGA Plus catalogs, the headline of
+  [v1.1.0](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.1.0) ([#4](https://github.com/akitaonrails/frank_mangaplus/pull/4)),
+  merged the desktop reader's double-page layouts into one spread-aware mode for
+  [v1.2.0](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.2.0) ([#10](https://github.com/akitaonrails/frank_mangaplus/pull/10)),
+  and corrected the spread-pairing audit for the Portuguese edition ([#11](https://github.com/akitaonrails/frank_mangaplus/pull/11)).
+  My [issue #12](https://github.com/akitaonrails/frank_mangaplus/issues/12) turned into
+  [v1.3.0](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.3.0)'s manual pairing corrections.
 
 ### My projects
 
-**[english-tutor-claudinho](https://github.com/felipe-NR/english-tutor-claudinho)**:
+**[FluentDev-BR](https://github.com/felipe-NR/FluentDev-BR)**:
 an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that gives your coding agent the ability to act as your own English tutor.
 It corrects the English in the messages you send, records recurring mistakes, and reviews them with you.
 Tuned for Brazilian Portuguese speakers, with Claude Code and Codex as its MVP clients.
@@ -121,7 +128,8 @@ Built with Python, FastAPI, and the Anthropic SDK.
 
 ---
 
-_[ai-memory](https://github.com/felipe-NR/ai-memory), [career-ops](https://github.com/felipe-NR/career-ops),
+_[ai-jail](https://github.com/felipe-NR/ai-jail), [ai-memory](https://github.com/felipe-NR/ai-memory),
+[ai-usagebar](https://github.com/felipe-NR/ai-usagebar), [career-ops](https://github.com/felipe-NR/career-ops),
 and [frank_mangaplus](https://github.com/felipe-NR/frank_mangaplus)
 under my account are forks used for upstream contributions. The table reports the
 upstream repositories' stars and links to my work there._
