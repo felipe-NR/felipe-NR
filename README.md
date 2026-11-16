@@ -2,6 +2,18 @@
 
 Software Engineer | DDD | Applied AI | DevOps Culture
 
+### My projects
+
+**[FluentDev-BR](https://github.com/felipe-NR/FluentDev-BR)**:
+an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that turns your coding agent into an English tutor, and it doesn't stop coding.
+It corrects the English in the messages you write, records the mistakes you repeat and reviews them with you, and it's tuned for Brazilian Portuguese speakers.
+Runs on Claude Code, Codex and Antigravity CLI.
+
+**[judoka-assistant](https://github.com/felipe-NR/judoka-assistant)** ([live demo](https://felipe-nr.github.io/judoka-assistant/)):
+a Brazilian Portuguese assistant for judo techniques, history and rules. Ask it about anything else and it won't answer.
+Under the hood it's cache-augmented generation (CAG): the whole judo corpus sits in a cached prompt prefix, behind a scope guardrail that fails closed.
+Python and FastAPI, with Claude or OpenAI as the model provider.
+
 ### Open source
 
 <table>
@@ -113,18 +125,6 @@ and frank_mangaplus, and by [santifer](https://github.com/santifer) in career-op
   and corrected the spread-pairing audit for the Portuguese edition ([#11](https://github.com/akitaonrails/frank_mangaplus/pull/11)).
   My [issue #12](https://github.com/akitaonrails/frank_mangaplus/issues/12) turned into
   [v1.3.0](https://github.com/akitaonrails/frank_mangaplus/releases/tag/v1.3.0)'s manual pairing corrections.
-
-### My projects
-
-**[FluentDev-BR](https://github.com/felipe-NR/FluentDev-BR)**:
-an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that turns your coding agent into an English tutor, and it doesn't stop coding.
-It corrects the English in the messages you write, records the mistakes you repeat and reviews them with you, and it's tuned for Brazilian Portuguese speakers.
-Runs on Claude Code, Codex and Antigravity CLI.
-
-**[judoka-assistant](https://github.com/felipe-NR/judoka-assistant)** ([live demo](https://felipe-nr.github.io/judoka-assistant/)):
-a Brazilian Portuguese assistant for judo techniques, history and rules. Ask it about anything else and it won't answer.
-Under the hood it's cache-augmented generation (CAG): the whole judo corpus sits in a cached prompt prefix, behind a scope guardrail that fails closed.
-Python and FastAPI, with Claude or OpenAI as the model provider.
 
 ---
 
