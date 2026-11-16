@@ -5,14 +5,14 @@ Software Engineer | DDD | Applied AI | DevOps Culture
 ### My projects
 
 **[FluentDev-BR](https://github.com/felipe-NR/FluentDev-BR)**:
-an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that turns your coding agent into an English tutor, and it doesn't stop coding.
-It corrects the English in the messages you write, records the mistakes you repeat and reviews them with you, and it's tuned for Brazilian Portuguese speakers.
-Runs on Claude Code, Codex and Antigravity CLI.
+an [Agent Plugins 1.0.0](https://agent-plugins.org/specification) plugin that turns your coding agent into an English tutor while it keeps coding.
+It corrects the English in the messages you write, records the mistakes you repeat and goes over them with you.
+It's tuned for Brazilian Portuguese speakers and runs on Claude Code, Codex and Antigravity CLI.
 
 **[judoka-assistant](https://github.com/felipe-NR/judoka-assistant)** ([live demo](https://felipe-nr.github.io/judoka-assistant/)):
 a Brazilian Portuguese assistant for judo techniques, history and rules. Ask it about anything else and it won't answer.
 Under the hood it's cache-augmented generation (CAG): the whole judo corpus sits in a cached prompt prefix, behind a scope guardrail that fails closed.
-Python and FastAPI, with Claude or OpenAI as the model provider.
+It's built with Python and FastAPI and uses Claude or OpenAI as the model provider.
 
 ### Open source
 
